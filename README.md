@@ -1,2 +1,2 @@
 # Road-Incident-Reportin-System
-A mobile app for reporting all road incidents to it's concern agency. Using React Native.js, PHP, Mysql
+A Mobile Application for reporting all road incidents to there respective concerned agencies. Using React Native.js, PHP, Mysql
